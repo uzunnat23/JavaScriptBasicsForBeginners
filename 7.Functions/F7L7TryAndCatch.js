@@ -22,7 +22,7 @@ const person = {
 };
 
 try {
-    person.fullName = '';
+    person.fullName = 'Uzun Nat';
 }
 catch (e) {
     alert(e);
